@@ -13,6 +13,9 @@ LangChain provides the engineering platform and open source frameworks developer
 
 ## LangChain Roadmap
 
+![LangChain Roadmap](langchain.png)
+
+
 - **Fundamentals**
   - What is LangChain?
   - LangChain Components
