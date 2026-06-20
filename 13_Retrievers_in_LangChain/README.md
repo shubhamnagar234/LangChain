@@ -130,3 +130,14 @@ Many tourists visit every year.
 - You need to **improve answer accuracy** in RAG pipelines.
 
 ![Contextual Compression Retriever](images/contextual_compression_retriever.png)
+
+## More Retrievers 
+- BM25Retriever (Keyword-Based)
+- ParentDocumentRetriever (Document-Based)
+- TimeWeightedVectorRetriever (Time-Aware)
+- SelfQueryRetriever (Metadata-Aware)
+- EnsembleRetriever (Hybrid / Ensemble)
+- MultiVectorRetriever (Document-Based)
+- ArxivRetriever (External Knowledge Source)
+
+![More Retrievers](images/more_retrievers.png)
