@@ -1,0 +1,39 @@
+# ==============================================================================
+# LangChain & Generative AI Ecosystem Dependencies
+# ==============================================================================
+
+# Core LangChain Framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# Model Provider Integrations
+langchain-openai>=0.2.0
+openai>=1.40.0
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+langchain-anthropic>=0.2.0
+anthropic>=0.34.0
+langchain-huggingface>=0.1.0
+transformers>=4.40.0
+huggingface-hub>=0.24.0
+
+# Vector Stores, Embeddings & RAG
+langchain-chroma>=0.1.4
+chromadb>=0.5.0
+pypdf>=4.3.0
+beautifulsoup4>=4.12.0
+youtube-transcript-api>=0.6.2
+
+# Tooling & Agent Utilities
+duckduckgo-search>=6.2.0
+
+# Schema Validation & Data Processing
+pydantic>=2.8.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+
+# Frontend & Application Interface
+streamlit>=1.38.0
+python-dotenv>=1.0.1
